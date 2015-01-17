@@ -10,9 +10,9 @@ notebooks. In two sections we first covered the basic syntax and
 semantics of the Julia language and second worked through an example
 problem.
 
-Included in the `source` directory of this repository are two versions
-of two files. BasicJulia.ipynb, BasicJulia.jl, FindingPi.ipynb,
-FindingPi.jl. These files are described below.
+Included in the `IntroToJulia` directory of this repository are two
+versions of two files. BasicJulia.ipynb, BasicJulia.jl,
+FindingPi.ipynb, FindingPi.jl. These files are described below.
 
 BasicJulia
 ----------
