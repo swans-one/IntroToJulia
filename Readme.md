@@ -30,6 +30,9 @@ examples for each:
 - Flow Control
 - Functions
 
+The contents of this notebook can also be viewed (but not interacted
+with) without any need to download or install Julia, by going to its
+[nbviewer page, here](http://nbviewer.ipython.org/github/Wilduck/IntroToJulia/blob/v1.0/IntroToJulia/BasicJulia.ipynb).
 
 FindingPi
 ---------
@@ -59,6 +62,9 @@ Working through this example, we introduced the following Julia concepts:
 - Graphing
 - Performance of nested loops.
 
+The contents of this notebook can also be viewed (but not interacted
+with) without any need to download or install Julia, by going to its
+[nbviewer page, here](http://nbviewer.ipython.org/github/Wilduck/IntroToJulia/blob/v1.0/IntroToJulia/FindingPi.ipynb).
 
 Copyright
 =========
